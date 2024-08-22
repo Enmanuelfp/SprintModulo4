@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">SprintModulo4</string>
+
+    <string name="titulo">SprintModulo4</string>
+    <string name="justificacion">Este Sprint Fue realizado en pocas horas, pero mejorare lo se</string>
+    <string name="presentacion">Mi nombre Es Enmanuel Perez, aprendiz de Programacion</string>
+    <string name="presentacion2">Posdata: Me parezco al mono en busca de soluciones a los Bugs </string>
+    <string name="dato">Aun me cuesta cambiar el diseño del boton, larga vida al boton stock</string>
+    <string name="btn">¿Quieres Saber mas de mi?</string>
+
+    <string name="texLandview1">Giraste la pantalla, Welcome</string>
+    <string name="texLandview2">Mi segundo Nombre es Francisco</string>
+    <string name="texLandview3">Me gustan los VideoJuegos</string>
+    <string name="texLandview4">Soy muy malo en diseño, pero me esfuerzo en mejorar</string>
+
+    <string name="message">Ya que quieres saber mas de mi, te dejare links directos a mi perfil</string>
+    <string name="message2">Dejame un mensaje</string>
+    <string name="btnSend">Enviar</string>
 </resources>
